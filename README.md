@@ -47,4 +47,4 @@ This Snakes and Ladders game is released under the [MIT License](https://opensou
 
 ## Acknowledgements
 
-This game implementation was created by [Your Name]. Special thanks to [Name] for providing guidance and inspiration.
+This game implementation was created by Virag Jain
